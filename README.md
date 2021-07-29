@@ -6,12 +6,11 @@ PHP
 JavaScript
 
 # Homepage
-![image](https://user-images.githubusercontent.com/52566550/127546897-eecbfe8e-d27f-45fe-ba89-577a94f5a502.png)
+![image](https://user-images.githubusercontent.com/52566550/127547677-6a47758f-8b99-4aee-ab74-1f12204fb98c.png)
 
 # Log in (modal)
 ![image](https://user-images.githubusercontent.com/52566550/127546983-c5380d7e-1b63-4532-8d9b-a271a499fa88.png)
 
 # Fixed navigation bar and footer
-![image](https://user-images.githubusercontent.com/52566550/127547071-464bf474-9dd6-4aa0-b799-60ca6fcae352.png)
-
+![image](https://user-images.githubusercontent.com/52566550/127547711-a839eb7e-e245-4ebf-97d1-abc998338006.png)
 
